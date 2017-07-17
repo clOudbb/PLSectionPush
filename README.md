@@ -3,4 +3,4 @@
 
 
 ## 示例
-> img = "http://wx4.sinaimg.cn/mw690/005Duxwwly1fhnc3mfnuyg30ad0j4dlq.gif"
+<img src="http://wx4.sinaimg.cn/mw690/005Duxwwly1fhnc3mfnuyg30ad0j4dlq.gif" width="50%" height="50%">
